@@ -1,0 +1,5 @@
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.AssemblyInfo.cs
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.csproj.CoreCompileInputs.cache
